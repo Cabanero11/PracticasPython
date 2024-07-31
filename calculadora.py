@@ -97,5 +97,4 @@ borrar = Button(ventana, text='Borrar', height=4, width=19, font=40,
                command= borrar_texto)
 
 borrar.pack()
-
 ventana.mainloop()
